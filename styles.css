@@ -2,7 +2,8 @@ h1 {
     background-color: #27a6b9;
   }
 
-  .button {
+  .button 
+  .a {
     height: 50px;
     width: 200px;
     display: flex;
